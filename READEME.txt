@@ -23,7 +23,7 @@ Clean started at 8:25 AM...
 ========== Clean: 1 succeeded, 0 failed, 0 skipped ==========
 ========== Clean completed at 8:25 AM and took 03.694 seconds ==========
 
-08:20 - I run the program
+0820 - I run the program
 
 0830 - i Examine the database
 
@@ -37,14 +37,18 @@ Clean started at 8:25 AM...
 
 
 
-I run The application 
 
-clean
+20250205 
+
+0828 
 Clean started at 8:28 AM...
 1>------ Clean started: Project: MvcMovie, Configuration: Debug Any CPU ------
 ========== Clean: 1 succeeded, 0 failed, 0 skipped ==========
 ========== Clean completed at 8:28 AM and took 03.976 seconds ==========
+0830 - Tested!
+    All good 
+0910 - I pushed my application to github repository 
+0920 -  work done  completed the final step
 
-Teested!
-All good 
+
 
