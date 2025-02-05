@@ -1,4 +1,4 @@
-﻿2025-01-22 
+2025-01-22 
 
 0925- Add-Migration 
       Update-Database
@@ -33,6 +33,11 @@ Clean started at 8:25 AM...
 
 0835 - i Replace the contents of Program.cs
 
+0840 - Add a Rating property to Models/Movie.cs:
+
+0900 - Validation was added and i run the App, it was running successfully 
+
+
 0930 - I created a Github account
 
 
@@ -48,7 +53,5 @@ Clean started at 8:28 AM...
 0830 - Tested!
     All good 
 0910 - I pushed my application to github repository 
+
 0920 -  work done  completed the final step
-
-
-
