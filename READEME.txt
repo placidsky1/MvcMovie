@@ -35,6 +35,8 @@ Clean started at 8:25 AM...
 
 0840 - Add a Rating property to Models/Movie.cs:
 
+0847 Rating Timestamp 20250205025601_Rating.cs
+
 0900 - Validation was added and i run the App, it was running successfully 
 
 
